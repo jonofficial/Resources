@@ -1,2 +1,2 @@
-# MySQL-notes
-covers basics of MySQL + python
+# MySQL + python
+
