@@ -1,1 +1,1 @@
-MySQL (with python), Git
+MySQL (with python), Git, JavaScript
