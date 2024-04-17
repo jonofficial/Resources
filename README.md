@@ -1,1 +1,1 @@
-MySQL (with python), Git, JavaScript
+MySQL, Git, JavaScript, Flutter, React
